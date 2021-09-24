@@ -1,0 +1,5 @@
+{
+	"ip":"SMPshade2.aternos.me",
+	"port": "26567",
+	"name": "afkboi"
+}
